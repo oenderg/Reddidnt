@@ -3,6 +3,9 @@
 
 # Reddidn't
 
+![GitHub Repo stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.wizpizz.reddidnt?style=flat)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.wizpizz.reddidnt/total)
+
 </div>
 
 Reddidn't is a focused Reddit ad blocker built as a modern LSPosed module. It uses DexKit to locate ad-rendering methods by stable strings and structural characteristics instead of relying on obfuscated class or method names.
